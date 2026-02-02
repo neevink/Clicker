@@ -158,7 +158,7 @@ namespace Clicker
 
         private void AboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Этот кликер я написал для своей\nмамы. Ей было сложно тянутся до\nкнопки F12 и я написал новое\nпроложение.", "О программе");
+            MessageBox.Show("Этот кликер я написал для своей\nмамы. Ей было сложно тянутся до\nкнопки F12 и я написал новое\nприложение.", "О программе");
         }
     }
 }
